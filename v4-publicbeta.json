@@ -1,5 +1,5 @@
 {
-  "showModal": true,
+  "showModal": false,
   "showOnce": false,
   "id": "2000",
   "title": "FightPlanner Event",
